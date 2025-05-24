@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2759009598
+00:03:18.000 --> 00:03:18.260
+They're actually attached to specific elastic network interfaces known as ENIs.
+
+704443920
+00:03:18.260 --> 00:03:22.980
+Now, even if you see the user interface present this as being able to attach a
+
+3583097127
+00:03:22.980 --> 00:03:24.000
+security group to an instance, know that this isn't what happens.
+

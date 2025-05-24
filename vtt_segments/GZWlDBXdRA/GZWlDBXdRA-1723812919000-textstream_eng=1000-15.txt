@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3199386929
+00:01:24.000 --> 00:01:24.160
+and the response which is using ephemeral ports is automatically allowed.
+
+3861754571
+00:01:24.160 --> 00:01:30.000
+Now security groups do have a major limitation and that's that there is no explicit deny.
+

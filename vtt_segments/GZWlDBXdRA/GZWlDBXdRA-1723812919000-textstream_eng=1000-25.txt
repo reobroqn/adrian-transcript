@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+877593129
+00:02:24.000 --> 00:02:26.480
+cannot be used to deny a subset of those and that's why typically you'll use
+
+2141479906
+00:02:26.480 --> 00:02:30.000
+network access control lists in conjunction with security groups where
+

@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1282453093
+00:05:48.000 --> 00:05:48.340
+security groups are capable of. Okay so that's the basics. Now let's look at some of the advanced
+
+1241503159
+00:05:48.340 --> 00:05:53.740
+bits of security group functionality. Security groups are capable of using
+
+3841771535
+00:05:53.740 --> 00:05:54.000
+logical references. Let's step through how this works with a similar example to
+

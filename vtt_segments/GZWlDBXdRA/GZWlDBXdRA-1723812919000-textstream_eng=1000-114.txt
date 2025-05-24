@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+4277212666
+00:11:18.000 --> 00:11:18.980
+and so generally you would use network ACLs to explicitly block any bad actors and use security
+
+2572674130
+00:11:18.980 --> 00:11:24.000
+groups to allow traffic to your VPC based resources. You do this because security groups are capable
+

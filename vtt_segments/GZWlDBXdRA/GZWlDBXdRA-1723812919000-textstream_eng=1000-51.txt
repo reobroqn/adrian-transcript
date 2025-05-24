@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3863702512
+00:05:00.000 --> 00:05:02.100
+the corresponding response part, the connection from the instance back to Bob is automatically allowed.
+
+2006239473
+00:05:02.100 --> 00:05:06.000
+Now lastly, and I'm going to repeat this point several times throughout this lesson,
+

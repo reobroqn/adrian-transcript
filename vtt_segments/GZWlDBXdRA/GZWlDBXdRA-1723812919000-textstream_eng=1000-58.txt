@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2585412759
+00:05:42.000 --> 00:05:42.580
+protection. You can't add an explicit deny for Bob's IP address. That's not something that
+
+3832717745
+00:05:42.580 --> 00:05:48.000
+security groups are capable of. Okay so that's the basics. Now let's look at some of the advanced
+

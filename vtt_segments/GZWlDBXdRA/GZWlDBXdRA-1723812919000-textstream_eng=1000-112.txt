@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1366876574
+00:11:06.000 --> 00:11:07.380
+But it's important that you understand that while network ACLs
+
+1788524151
+00:11:07.380 --> 00:11:12.000
+do allow you to explicitly deny traffic, security groups don't.
+

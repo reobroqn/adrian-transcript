@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+9939862
+00:04:42.000 --> 00:04:45.540
+The security group applies to all traffic which enters or leaves the network interface
+
+3093393602
+00:04:45.540 --> 00:04:48.000
+and because they're stateful in this particular case because we've allowed TCP port 443 as the request portion of the communication
+

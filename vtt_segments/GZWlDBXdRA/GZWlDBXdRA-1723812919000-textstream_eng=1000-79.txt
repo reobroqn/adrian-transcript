@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+4012135904
+00:07:48.000 --> 00:07:51.420
+source a logical resource, the security group. Now using a logical resource
+
+870808426
+00:07:51.420 --> 00:07:54.000
+reference in this way means that the source reference, so the A4L-web
+

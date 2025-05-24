@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+720121555
+00:03:00.000 --> 00:03:00.680
+be covering exactly how this works on the next few screens. Just know at this
+
+3562219360
+00:03:00.680 --> 00:03:05.660
+stage that it enables some really advanced functionality. An important
+
+3819927447
+00:03:05.660 --> 00:03:06.000
+thing to understand is that security groups are not attached to instances,
+

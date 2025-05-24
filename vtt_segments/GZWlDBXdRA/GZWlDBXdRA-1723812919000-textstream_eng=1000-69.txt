@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3873462526
+00:06:48.000 --> 00:06:48.400
+security group with an inbound rule set which looks like this.
+
+2945464268
+00:06:48.400 --> 00:06:52.400
+In addition to this front end traffic the web instance also needs
+
+1278514381
+00:06:52.400 --> 00:06:54.000
+to connect with the application instance and for this example
+

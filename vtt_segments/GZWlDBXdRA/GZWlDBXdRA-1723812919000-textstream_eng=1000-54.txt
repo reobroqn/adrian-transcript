@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3498054566
+00:05:18.000 --> 00:05:22.100
+to access the instance on port TCP port 443,
+
+2458007746
+00:05:22.100 --> 00:05:24.000
+and this means the whole IP version for internet, then you can't block anything specific.
+

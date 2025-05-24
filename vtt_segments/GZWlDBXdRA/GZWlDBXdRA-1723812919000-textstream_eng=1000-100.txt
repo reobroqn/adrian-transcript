@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+207266049
+00:09:54.000 --> 00:09:54.420
+This one allows incoming communications on port TCP 1337 from the web security group,
+
+3738034580
+00:09:54.420 --> 00:10:00.000
+but it also has this rule, which is a self referential rule, allowing all traffic.
+

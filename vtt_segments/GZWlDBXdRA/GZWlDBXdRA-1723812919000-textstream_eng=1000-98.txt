@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2433541581
+00:09:42.000 --> 00:09:44.420
+Right now it's three, but it might be three, thirty or one.
+
+787073582
+00:09:44.420 --> 00:09:47.780
+What we can do is create a security group like this.
+
+3203943095
+00:09:47.780 --> 00:09:48.000
+This one allows incoming communications on port TCP 1337 from the web security group,
+

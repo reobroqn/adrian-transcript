@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+642350337
+00:06:18.000 --> 00:06:19.260
+Both of these are protected by security groups.
+
+588030465
+00:06:19.260 --> 00:06:24.000
+We have A4L-web and A4L-app.
+

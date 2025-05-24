@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1934814367
+00:02:48.000 --> 00:02:50.180
+support IP and CIDR based rules but they also allow referencing AWS logical
+
+3186265834
+00:02:50.180 --> 00:02:54.000
+resources. This includes other security groups and even itself within rules. I'll
+

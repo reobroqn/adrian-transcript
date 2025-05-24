@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1095835646
+00:10:54.000 --> 00:10:56.420
+So this is everything I wanted to cover about security groups within AWS.
+
+340721391
+00:10:56.420 --> 00:10:59.300
+So there's a lot of functionality and intelligence
+
+2762990045
+00:10:59.300 --> 00:11:00.000
+that you gain by using security groups versus network ACLs.
+

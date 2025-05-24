@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2646442522
+00:02:42.000 --> 00:02:43.160
+NACLs on the OSI 7 layer stack which means that they have more features. They
+
+4069585361
+00:02:43.160 --> 00:02:48.000
+support IP and CIDR based rules but they also allow referencing AWS logical
+

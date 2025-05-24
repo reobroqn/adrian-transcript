@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3461128534
+00:10:12.000 --> 00:10:13.180
+can receive communication, so all traffic from this security group.
+
+1107403568
+00:10:13.180 --> 00:10:18.000
+And this effectively means anything that also has this security group attached to it.
+

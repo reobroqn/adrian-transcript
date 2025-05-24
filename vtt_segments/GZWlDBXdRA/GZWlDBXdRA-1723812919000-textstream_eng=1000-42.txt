@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3108433240
+00:04:06.000 --> 00:04:07.420
+On the right side we have a customer, Bob, and Bob is accessing the instance using HTTPS.
+
+909395784
+00:04:07.420 --> 00:04:10.760
+So this means TCP port 443.
+
+737573775
+00:04:10.760 --> 00:04:12.000
+Conceptually think of security groups as something which surrounds network interfaces.
+

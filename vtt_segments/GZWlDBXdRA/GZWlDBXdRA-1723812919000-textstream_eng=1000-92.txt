@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2641989591
+00:09:06.000 --> 00:09:07.980
+This is critical to understand, so when you reference a security group from another security group,
+
+3230666545
+00:09:07.980 --> 00:09:12.000
+what you're actually doing is referencing any resources which have that security group associated with them.
+

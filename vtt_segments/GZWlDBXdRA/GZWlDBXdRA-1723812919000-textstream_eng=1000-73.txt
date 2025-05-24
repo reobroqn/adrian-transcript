@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3805400237
+00:07:12.000 --> 00:07:12.400
+of the web instance into the security group of the application instance
+
+2085023569
+00:07:12.400 --> 00:07:18.000
+or if you wanted to allow our application to scale and change IPs then we could add the CIDR ranges of the subnets instead of IP addresses
+

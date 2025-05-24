@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3330668012
+00:11:24.000 --> 00:11:25.860
+groups to allow traffic to your VPC based resources. You do this because security groups are capable
+
+3695352079
+00:11:25.860 --> 00:11:30.000
+of this logical resource referencing and that means AWS logical resources, it means security
+

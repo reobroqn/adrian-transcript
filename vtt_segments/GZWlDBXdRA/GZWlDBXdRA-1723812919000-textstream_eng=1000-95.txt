@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+750292267
+00:09:24.000 --> 00:09:25.900
+And it also simplifies security management, which means it's prone to less errors.
+
+4192024208
+00:09:25.900 --> 00:09:29.980
+Now, logical references provide even more functionality.
+
+2742188092
+00:09:29.980 --> 00:09:30.000
+They allow self-referencing. Let's take this as an example.
+

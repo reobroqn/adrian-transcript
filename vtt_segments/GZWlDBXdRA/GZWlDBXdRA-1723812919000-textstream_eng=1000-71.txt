@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3404722051
+00:07:00.000 --> 00:07:00.400
+let's say this is using TCP port 1337
+
+1679897103
+00:07:00.400 --> 00:07:04.400
+our application is that good. So how best to allow
+
+2324010353
+00:07:04.400 --> 00:07:06.000
+this communication? Well we could just add the IP address
+

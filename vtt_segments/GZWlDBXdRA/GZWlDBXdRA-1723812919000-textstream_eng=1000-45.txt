@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+605327747
+00:04:24.000 --> 00:04:24.860
+Now this is how a typical security group might look.
+
+1531510652
+00:04:24.860 --> 00:04:30.000
+It has inbound and outbound rules just like a network ACL.
+

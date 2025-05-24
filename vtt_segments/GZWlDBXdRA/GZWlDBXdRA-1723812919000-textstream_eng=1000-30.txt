@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+990956063
+00:02:54.000 --> 00:02:56.500
+resources. This includes other security groups and even itself within rules. I'll
+
+2510290662
+00:02:56.500 --> 00:03:00.000
+be covering exactly how this works on the next few screens. Just know at this
+

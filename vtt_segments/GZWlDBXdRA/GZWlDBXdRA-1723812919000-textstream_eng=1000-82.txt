@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2832547502
+00:08:06.000 --> 00:08:09.300
+associated with it. So in this example any instances which have the A4L-web
+
+2606627594
+00:08:09.300 --> 00:08:12.000
+security group attached to them can connect to any instances which have the
+

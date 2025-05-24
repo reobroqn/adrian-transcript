@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2875905965
+00:08:48.000 --> 00:08:52.140
+web subnet and as those instances are attached to the relevant security groups
+
+1199506939
+00:08:52.140 --> 00:08:54.000
+they're impacted by this logical referencing allowing anything defined
+

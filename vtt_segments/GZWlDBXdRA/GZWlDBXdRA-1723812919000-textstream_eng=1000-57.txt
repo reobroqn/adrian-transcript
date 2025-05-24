@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1304531527
+00:05:36.000 --> 00:05:36.500
+Imagine Bob is actually a bad actor. Well in this situation security groups cannot be used to add
+
+3325155070
+00:05:36.500 --> 00:05:42.000
+protection. You can't add an explicit deny for Bob's IP address. That's not something that
+

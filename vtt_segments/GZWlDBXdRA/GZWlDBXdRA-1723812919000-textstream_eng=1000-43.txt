@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2696802196
+00:04:12.000 --> 00:04:16.800
+Conceptually think of security groups as something which surrounds network interfaces.
+
+2175488386
+00:04:16.800 --> 00:04:18.000
+In this case the primary interface of the EC2 instance.
+

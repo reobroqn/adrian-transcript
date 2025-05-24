@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1808989006
+00:09:36.000 --> 00:09:39.940
+A private subnet inside AWS with an ever-changing number of application instances.
+
+4258590085
+00:09:39.940 --> 00:09:42.000
+Right now it's three, but it might be three, thirty or one.
+

@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+328743262
+00:09:00.000 --> 00:09:01.740
+within the security group to apply to any new instances automatically. Now this
+
+3115830855
+00:09:01.740 --> 00:09:06.000
+This is critical to understand, so when you reference a security group from another security group,
+

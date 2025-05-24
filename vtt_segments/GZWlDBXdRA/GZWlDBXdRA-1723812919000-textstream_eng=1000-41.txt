@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+286138964
+00:04:00.000 --> 00:04:00.500
+Let's start with a public subnet containing an EC2 instance, and this instance has an attached primary elastic network interface.
+
+3851617145
+00:04:00.860 --> 00:04:06.000
+On the right side we have a customer, Bob, and Bob is accessing the instance using HTTPS.
+

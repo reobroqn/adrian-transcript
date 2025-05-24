@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+669053463
+00:07:30.000 --> 00:07:34.400
+what we could do is reference the web security group within the application security group
+
+1896559376
+00:07:34.400 --> 00:07:36.000
+so this is an example of the application security group
+

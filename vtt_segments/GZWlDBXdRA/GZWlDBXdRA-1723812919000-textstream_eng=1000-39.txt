@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3717350105
+00:03:48.000 --> 00:03:48.620
+Now, at this point, let's step through some of the unique features of security groups,
+
+1914566036
+00:03:48.620 --> 00:03:51.180
+and it's probably better to do this visually.
+
+3450696485
+00:03:51.180 --> 00:03:54.000
+Let's start with a public subnet containing an EC2 instance, and this instance has an attached primary elastic network interface.
+

@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+4049515605
+00:06:00.000 --> 00:06:04.620
+the one you just saw. We start with a VPC containing a public web subnet and a
+
+3365749117
+00:06:04.620 --> 00:06:06.000
+private application subnet. Inside the web subnet is the 'categram application
+

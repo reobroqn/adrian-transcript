@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+3293384761
+00:06:30.000 --> 00:06:30.720
+over port TCP, port 443.
+
+3932767760
+00:06:30.720 --> 00:06:33.840
+And because this is the entry point for the application,
+
+944266791
+00:06:33.840 --> 00:06:36.000
+which logically has other users than just Bob,
+

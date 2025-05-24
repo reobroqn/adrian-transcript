@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+1324175784
+00:10:42.000 --> 00:10:44.100
+It also allows for simplified management of any intra-app communications
+
+4068791128
+00:10:44.100 --> 00:10:47.300
+and examples of this might be Microsoft domain controllers
+
+2347801964
+00:10:47.300 --> 00:10:48.000
+or managing application high availability within clusters.
+

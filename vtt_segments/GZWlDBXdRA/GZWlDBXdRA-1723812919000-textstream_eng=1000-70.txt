@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+2184821625
+00:06:54.000 --> 00:06:56.400
+to connect with the application instance and for this example
+
+331925936
+00:06:56.400 --> 00:07:00.000
+let's say this is using TCP port 1337
+
