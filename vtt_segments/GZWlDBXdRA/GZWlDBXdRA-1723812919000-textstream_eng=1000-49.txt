@@ -1,7 +1,0 @@
-WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
-
-3066145177
-00:04:48.000 --> 00:04:54.000
-and because they're stateful in this particular case because we've allowed TCP port 443 as the request portion of the communication
-

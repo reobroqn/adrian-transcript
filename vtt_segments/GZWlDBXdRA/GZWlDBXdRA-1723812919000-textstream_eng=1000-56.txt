@@ -1,7 +1,0 @@
-WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
-
-2868794282
-00:05:30.000 --> 00:05:36.000
-Imagine Bob is actually a bad actor. Well in this situation security groups cannot be used to add
-

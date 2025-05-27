@@ -1,7 +1,0 @@
-WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
-
-609037827
-00:03:54.000 --> 00:04:00.000
-Let's start with a public subnet containing an EC2 instance, and this instance has an attached primary elastic network interface.
-
